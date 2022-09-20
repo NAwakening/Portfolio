@@ -1,65 +1,34 @@
 {
-	"about":"Soy Tertulio Perez y desarrollo videojuegos. Esta es información sobre mi.",
-	"aboutimg": "http://www.spa-puntacana.com/wp-content/uploads/2016/03/news_photo_04.jpg",
+	"about":"Soy Roberto Garza Joa, estoy intereado en la programación y la narrativa de los juegos. Actualmente poseo conocimiento de Python",
+	"aboutimg": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5Ojf/2wBDAQoKCg0MDRoPDxo3JR8lNzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzf/wAARCABAACcDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABgcABAUDAQL/xAA0EAACAQMBBQUGBwADAAAAAAABAgMEBREABhIhMUEHE1FxgRQiI2GRoRZDUmKxweEykvD/xAAYAQADAQEAAAAAAAAAAAAAAAADBAYBAv/EACcRAAIBAwQBAgcAAAAAAAAAAAECAAMEEQUSITEykfATQVFxgbHB/9oADAMBAAIRAxEAPwDZjtsd1tdVSt7u/GFRv0NnIPoV+mgWyV81ivyvUBl7r4NQmOm9g/Q8fTRzYrtGlze0sAJJE7yI/qxzX+/Q6wu0S0inqRdYFyj4jmI6OBgN68vQeOiabUFSkgqDyUfr+zi5VkLBD0T7/EJbmF79XQhldAQw4g/+4aC79BKtzkEzCMMFZctzUgYI112f2kpPYYbdcKqOKaA7kLSHG8h5DPiOXkRol2qtwuFtWrpFSWSBd5eGd+Prjx8R/usukIXb9I5pFVadyWbpuPWDWzl1gstYzOWeGVcSYHEY5Efx66mssF+kcS/MjU0gHIGJSVrClWbe3c82gmqaO/rVRbyyRhWiYfL/AHOmPRVNJtJYgXi+FPGVlQ/lt14+IPEeh0GbcqkFqhqmABWcAt+kNw+nLVrstWqnrq6NXBp1RWkVue+SQpHoGz5DTOn1luNPRxwU49PeZJ3CGlcsDyG5mZW20KiW2pSllEPujvYmGPd9455Fs63uzy671GbPUTd7LTLmKQ/mJyP0P2I8Nd73DDLtC0EkgeIoe9jO9xGQCMjhk8evXVC/2Fdk6umu9tlY04nVTC5yy5zwz1BGRx4j59CWyA71c8nr7zbh/EqOu5U2ktot1yYRriCX34/AeI9D9samiq+UkV3tEc0EiAjdkikY4GD4nyP2GppN6bBuBKezvqb0R8RgCIl9oNobleacpVyKsC4IhiGFz4nqT56YHYpUkzV/eHLdxH5kKxA/nSrkYtGykDBGmB2OSd3fZ1dhh6FmCj9si8/+2nFppTTYgwJLMzO25jkzWvFdJ+PfZR1qoYiM9GZGP9jWt2qzN+HqdUxl6tMZOOIVz/Q0P1VO0naxHlgTJKsqg/th3s/VTq52o1JajtsabshM7uQjZ4KuD92A1z8xNi0ra+vuSJT1VTI8Eee7h3vcTyHLqeOprhFKBIG3eHnqaZ4PJguup9yUNQAfhHyBB/jTL7N6CEWpvbKUCRsFHZQWKnPDyyvLS2dyDH+4H6cP90XbN7XraLSkITelh3h3ZB+IpYnIPiN48DoNUnGFEIgyeTGWltt5l3zR05flvGFSceeNLmviqJrtQwPA/stPUyQKSMK27K7MATw/4qPodb8faJaZEDCoZG3CTE1I5cHhjiCVxz69NA2120aXaWBKQOkQLO4Zd3LMcngCevHmeehpuzgzogEEzP2jht9Pd547V3wpweCyge6fAHJyPnqaqCok5BtTTGRBBcT/2Q==",
 	"portfolio": [
 		{
-			"name": "Juego Poderoso",
-			"desc": "Es un juego y es una piola",
-			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Stray_calico_cat_near_Sagami_River-01.jpg/640px-Stray_calico_cat_near_Sagami_River-01.jpg",
+			"name": "Pixel art",
+			"desc": "Un pixel art de Zorua hecho en Turtle",
+			"img": "file:///C:/Users/USER/Pictures/pixel%20art.png",
+		},
+		{
+			"name": "Gato",
+			"desc": "Un gato programado en Python",
+			"img": "file:///C:/Users/USER/Pictures/Gato.png",
 			"src": "https://www.github.com"
 		},
 		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
+			"name": "Happy to Give",
+			"desc": "Videojuego hecho por Sublime Chills para la organización giving Tuesday, en este juego yo fuie el encargado de todo lo relacionado a la narrativa",
 			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
 			"src": "https://www.github.com"
 		},
 		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
+			"name": "City of Ruin",
+			"desc": "Videojuego arcade al estilo Donkey Kong",
 			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
 			"src": "https://www.github.com"
 		},
 		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
+			"name": "Liness",
+			"desc": "Videojuego RPG",
+			"img": "blob:https://web.whatsapp.com/30f44c58-b314-42e1-97b0-4314f1f6a1b1",
 			"src": "https://www.github.com"
 		}
 	]
